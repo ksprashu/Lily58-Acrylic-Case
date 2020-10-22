@@ -1,3 +1,12 @@
+# Edits by ksprashu (changelog)
+- Changed the M2.5 screws and M2.5 hex standoffs into M2 screw slots and M2 round standoffs. 
+- Also added encoder profile cut-outs in the plate instead of just square cutouts. 
+- Finally added cutouts for OLED guard within the drawing itself.
+
+In addition I've moved the drawing around a little offset from the sides to ensure clean cutting by laser. I've also added some offsets between some of the layers for better cutting tolerance.
+
+Much props to original designers of this case. It's fantastic.
+
 # Lily58 Pro Acrylic Case
 
 This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko, and I reused some parts from my original kit for the oled cover. Before uploading my designs, I figured I should make it Ponoko ready.
