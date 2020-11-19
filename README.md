@@ -1,6 +1,9 @@
 # Edits by ksprashu (changelog)
 - Changed the M2.5 screws and M2.5 hex standoffs into M2 screw slots and M2 round standoffs. 
 - Also added encoder profile cut-outs in the plate instead of just square cutouts. 
+  - forked into two versions - choose the right one based on clearance of plates from PCB depending on spacer height used. 
+  - v1 is square cut outs for encoder slots
+  - v2 has additional clearance cutouts for encoder legs
 - Finally added cutouts for OLED guard within the drawing itself.
 
 In addition I've moved the drawing around a little offset from the sides to ensure clean cutting by laser. I've also added some offsets between some of the layers for better cutting tolerance.
