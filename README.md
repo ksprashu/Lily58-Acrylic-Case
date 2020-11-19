@@ -9,7 +9,7 @@
 #### 19/11/2020
 - Updated the stroke colors to blue all around to clarify that all lines are cuts and not scores
 - Create an amateur video to explain the two types of encoder cutouts available in v1 and v2 designs.
-https://youtu.be/yRS8EwmMvow
+[![Acrylic Case for Lily58 Keyboard - Encoder cutout](https://img.youtube.com/vi/yRS8EwmMvow/0.jpg)](https://www.youtube.com/watch?v=yRS8EwmMvow)
 
 
 In addition I've moved the drawing around a little offset from the sides to ensure clean cutting by laser. I've also added some offsets between some of the layers for better cutting tolerance.
